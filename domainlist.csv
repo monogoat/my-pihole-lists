@@ -1,2 +1,3 @@
 id,type,domain,enabled,date_added,date_modified,comment
 1,0,r20.rs6.net,1,1621818855,1621818855,"Added from Query Log"
+3,3,(ads|captive|cloudservices|log|sr|web).roku(.admeasurement)*.com$,1,1621961931,1621961931,Roku
