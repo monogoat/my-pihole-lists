@@ -1,3 +1,7 @@
 id,type,domain,enabled,date_added,date_modified,comment
 1,0,r20.rs6.net,1,1621818855,1621818855,"Added from Query Log"
-3,3,(ads|captive|cloudservices|log|sr|web).roku(.admeasurement)*.com$,1,1621961931,1621961931,Roku
+3,3,(ads|captive|cloudservices|log|sr|web).roku(.admeasurement)*.com$,0,1621961931,1624155625,Roku
+5,0,mobile-collector.newrelic.com,0,1624154935,1624155273,"Added from Query Log"
+6,0,app-measurement.com,0,1624154937,1624155273,"Added from Query Log"
+7,0,evt.mxplay.com,0,1624154939,1624155275,"Added from Query Log"
+8,0,googleads.g.doubleclick.net,1,1624154964,1624155613,"Added from Query Log"
