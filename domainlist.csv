@@ -6,3 +6,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 7,0,evt.mxplay.com,0,1624154939,1624155275,"Added from Query Log"
 8,0,googleads.g.doubleclick.net,1,1624154964,1631721252,"Added from Query Log"
 9,1,boobers.com,1,1631716814,1631716814,
+10,0,datacloud-us-east-1.tealiumiq.com,1,1637015495,1637015495,"Added from Query Log"
